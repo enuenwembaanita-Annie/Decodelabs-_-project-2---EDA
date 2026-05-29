@@ -26,4 +26,4 @@ This project performs an Exploratory Data Analysis on a sales dataset containing
 - EDA Summary Enuenwemba Anita p2.docx
 
 ## Author
-Enuenwemba Anita
+Enuenwemba Anita Esther
